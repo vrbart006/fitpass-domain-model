@@ -1,4 +1,4 @@
-# Diagrama de Domínio
+# Diagrama de Domínio - Fitpass
 
 Este projeto apresenta o diagrama de classes do sistema FitPass, desenvolvido com base nos requisitos fornecidos.
 
