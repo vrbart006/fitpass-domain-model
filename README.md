@@ -1,0 +1,1 @@
+# fitpass-domain-model
