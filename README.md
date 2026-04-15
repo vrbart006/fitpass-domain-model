@@ -17,10 +17,10 @@ Este projeto apresenta o diagrama de classes do sistema FitPass, desenvolvido co
 
 ![Diagrama](diagrama_15_04.png)
 
-## 🛠️ Ferramentas utilizadas
+## Aplicativo utilizado
 
 * PlantNum
 
-## 👨‍💻 Autor
+## Autor
 
 Vitor
