@@ -19,7 +19,7 @@ Este projeto apresenta o diagrama de classes do sistema FitPass, desenvolvido co
 
 ## Aplicativo utilizado
 
-* PlantNum
+* PlantUML
 
 ## Autor
 
